@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659890770 source:c:\users\diwash\onedrive\documents\lab sheet\lab sheet 5\q15\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
